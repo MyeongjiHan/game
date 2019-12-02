@@ -1,0 +1,1279 @@
+﻿Log file open, 11/25/19 13:50:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Game
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.516992
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.25-04.50.29:643][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.25-04.50.29:643][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.25-04.50.29:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Engine.ini]
+[2019.11.25-04.50.29:643][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.25-04.50.29:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Engine.ini]
+[2019.11.25-04.50.29:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Engine.ini]
+[2019.11.25-04.50.29:643][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.25-04.50.29:643][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.25-04.50.29:643][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.25-04.50.29:643][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Engine.ini]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.25-04.50.29:644][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.25-04.50.29:645][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.25-04.50.29:645][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.25-04.50.29:645][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.25-04.50.29:645][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Engine.ini]
+[2019.11.25-04.50.29:645][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Engine.ini]
+[2019.11.25-04.50.29:651][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-04.50.29:652][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.25-04.50.29:652][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.25-04.50.29:652][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-04.50.29:652][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.25-04.50.29:652][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-04.50.29:652][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.25-04.50.29:652][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.25-04.50.29:652][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.25-04.50.29:652][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.25-04.50.29:653][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.25-04.50.29:653][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.25-04.50.29:653][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.25-04.50.29:653][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.25-04.50.29:653][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.25-04.50.29:653][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.25-04.50.29:653][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.25-04.50.29:653][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.25-04.50.29:653][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.25-04.50.29:653][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.25-04.50.29:653][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.25-04.50.29:654][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.25-04.50.29:654][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.25-04.50.29:654][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.25-04.50.29:654][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-04.50.29:654][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.25-04.50.29:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.25-04.50.29:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.25-04.50.29:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.25-04.50.29:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.25-04.50.29:654][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.25-04.50.29:655][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.25-04.50.29:655][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.25-04.50.29:655][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.25-04.50.29:655][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.25-04.50.29:655][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.25-04.50.29:655][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.25-04.50.29:655][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.25-04.50.29:656][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.25-04.50.29:656][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.25-04.50.29:656][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.25-04.50.29:656][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.25-04.50.29:656][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.25-04.50.29:656][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.25-04.50.29:656][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.25-04.50.29:656][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.25-04.50.29:656][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.25-04.50.29:656][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.25-04.50.29:656][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.25-04.50.29:657][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.25-04.50.29:657][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.25-04.50.29:657][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.25-04.50.29:657][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.25-04.50.29:657][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.25-04.50.29:657][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.25-04.50.29:657][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-04.50.29:657][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.25-04.50.29:657][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.25-04.50.29:657][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.25-04.50.29:657][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.25-04.50.29:657][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.25-04.50.29:658][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.25-04.50.29:658][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.25-04.50.29:658][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.25-04.50.29:658][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-04.50.29:658][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.25-04.50.29:658][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.25-04.50.29:658][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.25-04.50.29:658][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.25-04.50.29:658][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.25-04.50.29:658][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.25-04.50.29:658][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.25-04.50.29:659][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.25-04.50.29:659][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.25-04.50.29:659][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.25-04.50.29:659][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.25-04.50.29:659][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.25-04.50.29:659][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.25-04.50.29:659][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-04.50.29:659][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.25-04.50.29:659][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.25-04.50.29:660][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.25-04.50.29:660][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.25-04.50.29:768][  0]LogHAL: Display: Platform has ~ 8 GB [8485232640 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.25-04.50.29:768][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.25-04.50.29:768][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-04.50.29:769][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.25-04.50.29:769][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.25-04.50.29:769][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-04.50.29:769][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.25-04.50.29:769][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-04.50.29:769][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.25-04.50.29:769][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.25-04.50.29:769][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.25-04.50.29:769][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.25-04.50.29:769][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.25-04.50.29:770][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.25-04.50.29:770][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.25-04.50.29:770][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.25-04.50.29:770][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.25-04.50.29:770][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.25-04.50.29:770][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.25-04.50.29:770][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.25-04.50.29:770][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.25-04.50.29:770][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.25-04.50.29:771][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.25-04.50.29:771][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.25-04.50.29:771][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.25-04.50.29:771][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.25-04.50.29:771][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-04.50.29:771][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.25-04.50.29:771][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.25-04.50.29:771][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.25-04.50.29:771][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.25-04.50.29:771][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.25-04.50.29:772][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.25-04.50.29:772][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.25-04.50.29:772][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.25-04.50.29:772][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.25-04.50.29:772][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.25-04.50.29:772][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.25-04.50.29:772][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.25-04.50.29:772][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.25-04.50.29:773][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.25-04.50.29:773][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.25-04.50.29:773][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.25-04.50.29:773][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.25-04.50.29:773][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.25-04.50.29:773][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.25-04.50.29:773][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.25-04.50.29:773][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.25-04.50.29:774][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.25-04.50.29:774][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.25-04.50.29:774][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.25-04.50.29:774][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.25-04.50.29:774][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.25-04.50.29:774][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.25-04.50.29:774][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.25-04.50.29:774][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.25-04.50.29:775][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.25-04.50.29:775][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-04.50.29:775][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.25-04.50.29:775][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.25-04.50.29:775][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.25-04.50.29:775][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.25-04.50.29:776][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.25-04.50.29:776][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.25-04.50.29:776][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.25-04.50.29:776][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.25-04.50.29:776][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-04.50.29:776][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.25-04.50.29:776][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.25-04.50.29:777][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.25-04.50.29:777][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.25-04.50.29:777][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.25-04.50.29:777][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.25-04.50.29:777][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.25-04.50.29:777][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.25-04.50.29:777][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.25-04.50.29:777][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.25-04.50.29:777][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.25-04.50.29:778][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.25-04.50.29:778][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.25-04.50.29:778][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.25-04.50.29:778][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.25-04.50.29:778][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.25-04.50.29:778][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.25-04.50.29:780][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.25-04.50.29:780][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.25-04.50.29:780][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Config/Windows/Engine.ini]
+[2019.11.25-04.50.29:781][  0]LogInit: Computer: DESKTOP-6SK5OMU
+[2019.11.25-04.50.29:781][  0]LogInit: User: cheri
+[2019.11.25-04.50.29:781][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.25-04.50.29:781][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.25-04.50.29:782][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.11.25-04.50.29:782][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.25-04.50.29:782][  0]LogMemory: Process Physical Memory: 100.79 MB used, 100.79 MB peak
+[2019.11.25-04.50.29:782][  0]LogMemory: Process Virtual Memory: 99.94 MB used, 99.94 MB peak
+[2019.11.25-04.50.29:782][  0]LogMemory: Physical Memory: 5112.89 MB used,  2979.26 MB free, 8092.15 MB total
+[2019.11.25-04.50.29:782][  0]LogMemory: Virtual Memory: 4670.16 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.11.25-04.50.29:801][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.25-04.50.29:938][  0]LogInit: Using OS detected language (ko-KR).
+[2019.11.25-04.50.29:938][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.11.25-04.50.29:942][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.11.25-04.50.30:929][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.25-04.50.31:299][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.25-04.50.31:299][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.25-04.50.40:732][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.25-04.50.40:732][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.25-04.50.40:812][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.11.25-04.50.40:812][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.11.25-04.50.40:831][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.25-04.50.40:832][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.25-04.50.40:832][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.25-04.50.40:861][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.25-04.50.40:861][  0]LogD3D11RHI:     GPU DeviceId: 0x412 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.25-04.50.40:862][  0]LogWindows: EnumDisplayDevices:
+[2019.11.25-04.50.40:864][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.11.25-04.50.40:867][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.11.25-04.50.40:871][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.11.25-04.50.40:874][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.11.25-04.50.40:875][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4600
+[2019.11.25-04.50.40:875][  0]LogD3D11RHI:   Driver Version: 20.19.15.4531 (internal:20.19.15.4531, unified:20.19.15.4531)
+[2019.11.25-04.50.40:875][  0]LogD3D11RHI:      Driver Date: 9-29-2016
+[2019.11.25-04.50.40:875][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2019.11.25-04.50.40:904][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.25-04.50.40:929][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2019.11.25-04.50.44:311][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.25-04.50.44:486][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.25-04.50.44:571][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.25-04.50.44:646][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.25-04.50.44:702][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.25-04.50.44:738][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.25-04.50.44:769][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.25-04.50.44:805][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.25-04.50.44:824][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.25-04.50.44:942][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.25-04.50.44:942][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.25-04.50.44:942][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.25-04.50.44:942][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.25-04.50.44:942][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.25-04.50.44:942][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.25-04.50.44:942][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.25-04.50.44:942][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.25-04.50.44:942][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.25-04.50.44:942][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.25-04.50.44:942][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.25-04.50.44:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.25-04.50.44:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.25-04.50.44:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.25-04.50.44:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.25-04.50.44:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.25-04.50.44:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.25-04.50.44:943][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.25-04.50.44:949][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.25-04.50.45:038][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.25-04.50.45:038][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.25-04.50.45:087][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.25-04.50.45:087][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.25-04.50.45:109][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.25-04.50.45:130][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.25-04.50.45:149][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.25-04.50.45:197][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.25-04.50.45:299][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.25-04.50.45:299][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.25-04.50.45:299][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.25-04.50.45:387][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.25-04.50.45:694][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Intermediate/Shaders/WorkingDirectory/13384/).
+[2019.11.25-04.50.45:695][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cheri/AppData/Local/Temp/UnrealShaderWorkingDir/194FE554494AA6574E35059118DB78B7/'.
+[2019.11.25-04.50.45:706][  0]LogXGEController: Cleaning working directory: C:/Users/cheri/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.25-04.50.45:707][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.25-04.50.45:707][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.25-04.50.45:707][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.25-04.50.54:895][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.25-04.50.55:544][  0]LogDerivedDataCache: Loaded boot cache 0.65s 73MB C:/Users/cheri/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.25-04.50.55:544][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cheri/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.25-04.50.55:545][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.25-04.50.55:545][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.25-04.50.55:545][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.25-04.50.55:545][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.25-04.50.55:606][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.25-04.50.55:606][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.25-04.50.55:606][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.25-04.50.55:613][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cheri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.25-04.50.55:613][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.25-04.50.55:613][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.25-04.50.55:763][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.25-04.50.55:782][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.25-04.50.55:783][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.25-04.50.56:182][  0]LogAssetRegistry: FAssetRegistry took 0.0077 seconds to start up
+[2019.11.25-04.50.57:375][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.25-04.50.58:452][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.25-04.50.58:452][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.25-04.50.58:452][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.25-04.50.58:452][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.25-04.50.58:452][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.25-04.50.58:629][  0]LogNetVersion: Game 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 932843807)
+[2019.11.25-04.51.00:944][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.190428 seconds
+[2019.11.25-04.51.00:961][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.25-04.51.00:961][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.25-04.51.00:961][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.25-04.51.16:689][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.25-04.51.16:700][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.25-04.51.16:892][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.11.25-04.51.16:893][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.11.25-04.51.16:899][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.11.25-04.51.16:903][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.11.25-04.51.17:368][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.25-04.51.17:620][  0]LogOcInput: OculusInput pre-init called
+[2019.11.25-04.51.17:656][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.25-04.51.17:656][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.25-04.51.18:266][  0]LogEngine: Initializing Engine...
+[2019.11.25-04.51.18:269][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.25-04.51.18:273][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.25-04.51.20:190][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.25-04.51.20:341][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.25-04.51.20:356][  0]LogInit: No audio devices found!
+[2019.11.25-04.51.20:356][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.25-04.51.20:540][  0]LogDerivedDataCache: Saved boot cache 0.18s 73MB C:/Users/cheri/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.25-04.51.20:579][  0]LogInit: Texture streaming: Enabled
+[2019.11.25-04.51.20:688][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.25-04.51.20:689][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={5CB94DB3-45A0-9DA4-4999-E38A6F0E98DA}
+[2019.11.25-04.51.20:690][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.25-04.51.20:696][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.25-04.51.21:270][  0]LogInit: Transaction tracking system initialized
+[2019.11.25-04.51.21:485][  0]BlueprintLog: New page: 에디터 로드
+[2019.11.25-04.51.22:166][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.11.25-04.51.24:297][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.25-04.51.24:298][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.25-04.51.24:673][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Content/' took 0.51s
+[2019.11.25-04.51.26:423][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.11.25-04.51.26:423][  0]Cmd: MAP LOAD FILE="../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.25-04.51.26:441][  0]LightingResults: New page: 라이팅 빌드
+[2019.11.25-04.51.26:458][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-04.51.26:459][  0]MapCheck: New page: 맵 체크
+[2019.11.25-04.51.26:459][  0]LightingResults: New page: 라이팅 빌드
+[2019.11.25-04.51.26:775][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2019.11.25-04.51.29:856][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Zombie/Zombie_Attack.Zombie_Attack
+[2019.11.25-04.51.29:857][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Zombie/Zombie_Attack.Zombie_Attack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-04.51.29:884][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Zombie/Zombie_Idle.Zombie_Idle
+[2019.11.25-04.51.29:884][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Zombie/Zombie_Idle.Zombie_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-04.51.29:891][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Zombie/Zombie_Walking.Zombie_Walking
+[2019.11.25-04.51.29:891][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Zombie/Zombie_Walking.Zombie_Walking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-04.51.29:895][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Zombie/Zombie_Running.Zombie_Running
+[2019.11.25-04.51.29:895][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Zombie/Zombie_Running.Zombie_Running) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.25-04.51.30:662][  0]LogTexture: Display: 텍스처 빌드: FuzZombie__specular (AutoDXT, 2048X2048)
+[2019.11.25-04.51.30:662][  0]LogTexture: Display: 텍스처 빌드: FuzZombie__normal (BC5, 2048X2048)
+[2019.11.25-04.51.30:662][  0]LogTexture: Display: 텍스처 빌드: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2019.11.25-04.51.53:035][  0]LogTexture: Display: 텍스처 빌드: Health_Icon (AutoDXT, 20X20)
+[2019.11.25-04.51.53:035][  0]LogTexture: Display: 텍스처 빌드: Health_Border (BGRA8, 38X12)
+[2019.11.25-04.51.53:035][  0]LogTexture: Display: 텍스처 빌드: Bar_NoFill (BGRA8, 291X6)
+[2019.11.25-04.51.53:036][  0]LogTexture: Display: 텍스처 빌드: Bar_Fill (BGRA8, 291X6)
+[2019.11.25-04.51.53:036][  0]LogTexture: Display: 텍스처 빌드: Armor_Icon (BGRA8, 20X21)
+[2019.11.25-04.51.53:036][  0]LogTexture: Display: 텍스처 빌드: Armor_Border (BGRA8, 38X12)
+[2019.11.25-04.51.53:036][  0]LogTexture: Display: 텍스처 빌드: RedVignette (AutoDXT, 960X540)
+[2019.11.25-04.51.53:051][  0]LogMaterial: Display: Missing cached shader map for material glass_hair_M_ncl1_1, compiling. 
+[2019.11.25-04.51.53:565][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 114
+[2019.11.25-04.51.53:565][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 104
+[2019.11.25-04.51.53:565][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 94
+[2019.11.25-04.51.53:565][  0]LogMaterial: Display: Missing cached shader map for material glass_hair_M, compiling. 
+[2019.11.25-04.51.53:799][  0]LogMaterial: Display: Missing cached shader map for material body_M, compiling. 
+[2019.11.25-04.51.53:967][  0]LogSkeletalMesh: Building Skeletal Mesh Zombie_Character...
+[2019.11.25-04.51.54:015][  0]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Zombie/Zombie_Character.Zombie_Character
+[2019.11.25-04.51.54:619][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.25-04.51.54:683][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.25-04.51.55:185][  0]LogUObjectHash: Compacting FUObjectHashTables data took   8.76ms
+[2019.11.25-04.51.55:185][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.25-04.51.55:186][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.549ms.
+[2019.11.25-04.51.55:186][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 28.764
+[2019.11.25-04.51.55:501][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-04.51.55:530][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-04.51.55:561][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-04.51.55:602][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-04.51.55:658][  0]LogCollectionManager: Loaded 0 collections in 0.016259 seconds
+[2019.11.25-04.51.55:689][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Collections/' took 0.02s
+[2019.11.25-04.51.55:689][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Content/Developers/cheri/Collections/' took 0.02s
+[2019.11.25-04.51.55:689][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Content/Collections/' took 0.01s
+[2019.11.25-04.51.55:689][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.11.25-04.51.55:718][  0]LogContentBrowser: Native class hierarchy populated in 0.0284 seconds. Added 2863 classes and 680 folders.
+[2019.11.25-04.51.55:754][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.11.25-04.51.56:053][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.11.25-04.51.56:075][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.11.25-04.51.56:127][  0]LogSlate: Took 0.000511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.25-04.51.56:171][  0]LogSlate: Took 0.041287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.11.25-04.51.56:185][  0]LogSlate: Took 0.008638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.11.25-04.51.56:186][  0]LogSlate: Took 0.000403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.25-04.51.56:195][  0]LogSlate: Took 0.000558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.25-04.51.56:448][  0]LogRenderer: Reallocating scene render targets to support 1284x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.25-04.51.58:495][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.11.25-04.51.58:495][  0]LogLoad: (Engine Initialization) Total time: 106.40 seconds
+[2019.11.25-04.51.58:495][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.25-04.51.58:652][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.25-04.51.58:899][  1]LogSlate: Took 0.002288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.25-04.52.01:417][  3]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.25-04.52.58:603][253]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Crashed, SessionId={5CB94DB3-45A0-9DA4-4999-E38A6F0E98DA}
+[2019.11.25-04.53.20:466][342]LogAssetRegistry: Asset discovery search completed in 144.2874 seconds
+[2019.11.25-04.53.20:548][342]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000019 seconds (found 0 objects)
+[2019.11.25-04.53.20:549][342]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000757 seconds (updated 0 objects)
+[2019.11.25-04.53.34:893][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.25-04.53.35:015][404]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.25-04.53.35:394][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.25-04.53.35:397][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.25-04.53.35:413][404]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 25. 오후 10:53:35)
+[2019.11.25-04.53.35:432][404]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.25-04.53.35:450][404]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.25-04.53.35:629][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.177389s)
+[2019.11.25-04.53.35:633][404]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.25-04.53.35:634][404]LogPlayLevel: PIE: World Init took: (0.004605s)
+[2019.11.25-04.53.35:634][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.184370s)
+[2019.11.25-04.53.35:712][404]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.11.25-04.53.35:741][404]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.25-04.53.35:760][404]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.25-13.53.35
+[2019.11.25-04.53.35:789][404]LogWorld: Bringing up level for play took: 0.045347
+[2019.11.25-04.53.35:791][404]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.11.25-04.53.35:838][404]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.11.25-04.53.35:863][404]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.291
+[2019.11.25-04.53.35:864][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.25-04.53.37:329][408]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063001 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2019.11.25-04.53.58:625][515]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.25-04.53.58:790][516]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.25-04.54.02:183][519]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-115.724 Y=-32.358 Z=342.270] for [FirstPersonProjectile_C]
+[2019.11.25-04.54.02:184][519]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-115.724 Y=-32.358 Z=342.270] for [FirstPersonProjectile_C]
+[2019.11.25-04.54.02:187][519]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-115.724 Y=-32.358 Z=342.270] for [FirstPersonProjectile_C]
+[2019.11.25-04.54.02:194][519]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-115.724 Y=-32.358 Z=342.270] for [FirstPersonProjectile_C]
+[2019.11.25-04.54.02:199][519]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-115.724 Y=-32.358 Z=342.270] for [FirstPersonProjectile_C]
+[2019.11.25-04.54.02:203][519]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-115.724 Y=-32.358 Z=342.270] for [FirstPersonProjectile_C]
+[2019.11.25-04.54.02:208][519]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.25-04.54.02:808][525]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.25-04.54.07:042][527]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.25-04.54.07:071][527]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-114.694 Y=-44.059 Z=340.102] for [FirstPersonProjectile_C]
+[2019.11.25-04.54.07:076][527]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-114.694 Y=-44.059 Z=340.102] for [FirstPersonProjectile_C]
+[2019.11.25-04.54.07:082][527]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-114.694 Y=-44.059 Z=340.102] for [FirstPersonProjectile_C]
+[2019.11.25-04.54.07:091][527]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.25-04.54.07:092][527]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.25-04.54.07:288][530]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.062462 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_0.CollisionComponent'
+[2019.11.25-04.54.07:629][531]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.25-04.54.07:896][533]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.25-04.54.08:155][535]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.25-04.54.08:411][537]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.25-04.54.08:607][538]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.25-04.54.19:375][600]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.25-04.54.22:773][618]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.25-04.54.23:497][623]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.25-04.54.25:692][632]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.058911 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_56.CollisionComponent'
+[2019.11.25-04.54.25:694][632]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.062326 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_55.CollisionComponent'
+[2019.11.25-04.54.25:695][632]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.084033 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_57.CollisionComponent'
+[2019.11.25-04.54.28:454][639]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.110523 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_68.CollisionComponent'
+[2019.11.25-04.54.28:896][642]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.25-04.54.29:140][644]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.061839 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_68.CollisionComponent'
+[2019.11.25-04.54.32:352][663]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.25-04.54.32:353][663]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.25-04.54.53:391][771]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-144.932 Y=-77.871 Z=275.873] for [FirstPersonProjectile_C]
+[2019.11.25-04.54.59:742][813]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.25-04.54.59:749][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-04.54.59:749][813]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.25-04.54.59:752][813]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-04.55.00:021][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.25-04.55.00:021][813]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.25-04.55.00:274][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-04.55.00:434][813]LogUObjectHash: Compacting FUObjectHashTables data took  37.27ms
+[2019.11.25-04.55.00:570][814]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.11.25-04.55.01:734][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.25-04.55.39:600][ 12]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.11.25-04.55.42:629][ 30]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.11.25-04.55.43:364][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.25-04.55.58:287][ 80]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.11.25-04.55.58:733][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.25-04.56.07:432][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2019.11.25-04.56.15:090][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.25-04.56.15:090][147]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.25-04.56.15:423][147]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.25-04.56.15:423][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.25-04.56.15:424][147]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 25. 오후 10:56:15)
+[2019.11.25-04.56.15:424][147]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.25-04.56.15:527][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102066s)
+[2019.11.25-04.56.15:532][147]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.25-04.56.15:533][147]LogPlayLevel: PIE: World Init took: (0.006861s)
+[2019.11.25-04.56.15:533][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.109626s)
+[2019.11.25-04.56.15:751][147]LogUObjectHash: Compacting FUObjectHashTables data took  14.13ms
+[2019.11.25-04.56.15:791][147]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.25-04.56.15:849][147]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.25-13.56.15
+[2019.11.25-04.56.15:862][147]LogWorld: Bringing up level for play took: 0.064887
+[2019.11.25-04.56.15:864][147]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.11.25-04.56.15:881][147]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.308
+[2019.11.25-04.56.15:881][147]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.25-04.56.23:070][173]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.25-04.56.23:078][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-04.56.23:078][173]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.25-04.56.23:079][173]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.25-04.56.23:466][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.25-04.56.23:466][173]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.25-04.56.23:541][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.25-04.56.23:603][173]LogUObjectHash: Compacting FUObjectHashTables data took  38.50ms
+[2019.11.25-04.56.23:864][174]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.11.25-04.57.57:899][730]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 258
+[2019.11.25-04.58.08:055][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.25-04.59.53:490][612]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 248
+[2019.11.25-05.00.24:361][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.25-05.03.15:635][590]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 238
+[2019.11.25-05.05.38:221][277]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 228
+[2019.11.25-05.05.53:171][365]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 218
+[2019.11.25-05.11.45:290][229]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 208
+[2019.11.25-05.11.46:787][236]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 198
+[2019.11.25-05.12.40:174][527]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 188
+[2019.11.25-05.13.56:136][969]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 178
+[2019.11.25-05.15.06:031][356]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 168
+[2019.11.25-05.15.23:539][453]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 158
+[2019.11.25-05.15.40:392][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 148
+[2019.11.25-05.16.16:022][717]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 138
+[2019.11.25-05.16.53:647][909]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 128
+[2019.11.25-05.16.55:927][923]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 118
+[2019.11.25-05.17.06:437][981]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 108
+[2019.11.25-05.17.34:647][110]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 98
+[2019.11.25-05.17.44:466][166]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 88
+[2019.11.25-05.17.54:215][220]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 78
+[2019.11.25-05.17.56:942][235]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 68
+[2019.11.25-05.18.40:002][465]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2019.11.25-05.18.43:648][485]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2019.11.25-05.18.56:009][552]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2019.11.25-05.19.17:639][673]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2019.11.25-05.19.39:023][792]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2019.11.25-05.19.39:894][797]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.11.25-05.19.56:514][888]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.11.25-05.20.03:141][925]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2019.11.25-05.20.03:829][927]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.11.25-05.20.07:906][946]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.26-10.48.47:037][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-10.48.47:241][ 77]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.26-10.48.47:271][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-10.48.47:272][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-10.48.47:273][ 77]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 27. 오전 4:48:47)
+[2019.11.26-10.48.47:273][ 77]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-10.48.47:327][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053679s)
+[2019.11.26-10.48.47:331][ 77]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.26-10.48.47:332][ 77]LogPlayLevel: PIE: World Init took: (0.004963s)
+[2019.11.26-10.48.47:332][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.058984s)
+[2019.11.26-10.48.47:378][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.11.26-10.48.47:397][ 77]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-10.48.47:404][ 77]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.26-19.48.47
+[2019.11.26-10.48.47:407][ 77]LogWorld: Bringing up level for play took: 0.008887
+[2019.11.26-10.48.47:407][ 77]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.11.26-10.48.47:412][ 77]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.005
+[2019.11.26-10.48.47:413][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-10.48.52:604][145]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.26-10.48.54:480][168]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.26-10.48.54:857][172]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.26-10.48.55:044][174]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.26-10.48.55:317][177]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.26-10.48.55:991][184]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.26-10.48.56:389][188]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.26-10.48.57:713][201]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-10.48.57:904][203]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-214.613 Y=-87.306 Z=222.022] for [FirstPersonProjectile_C]
+[2019.11.26-10.48.58:101][205]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-214.681 Y=-87.213 Z=221.931] for [FirstPersonProjectile_C]
+[2019.11.26-10.48.58:443][208]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-10.48.58:768][211]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-10.48.59:194][215]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-10.48.59:463][217]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-10.48.59:673][219]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-10.49.03:159][251]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.26-10.49.03:387][253]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.26-10.49.04:031][258]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.26-10.49.04:285][260]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.26-10.49.06:142][273]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.26-10.49.06:418][275]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.050651 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_24.CollisionComponent'
+[2019.11.26-10.49.06:974][279]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.051583 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_31.CollisionComponent'
+[2019.11.26-10.49.08:516][289]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.081925 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_33.CollisionComponent'
+[2019.11.26-10.49.27:680][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-10.49.27:681][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-10.49.27:681][430]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-10.49.27:682][430]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-10.49.28:050][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-10.49.28:050][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-10.49.28:288][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-10.49.28:321][430]LogUObjectHash: Compacting FUObjectHashTables data took   9.91ms
+[2019.11.26-10.49.28:382][431]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.11.26-10.49.35:442][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-10.51.10:377][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.26-10.54.13:578][ 54]LogSlate: Took 0.026331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.26-11.00.27:372][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.22.24:834][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.23.27:113][342]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\cheri\Downloads\FPSAssets\FPSAssets\HUD_Export\Minimap_Arrow.png)
+[2019.11.26-11.23.27:137][342]LogTexture: Display: 텍스처 빌드: Minimap_Arrow (BGRA8, 16X18)
+[2019.11.26-11.23.27:215][342]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-11.23.53:522][428]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/FPSHUD.FPSHUD
+[2019.11.26-11.23.54:991][428]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0129 seconds. Added 121 classes and 0 folders.
+[2019.11.26-11.23.59:037][428]LogSlate: Took 0.023128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.26-11.24.23:928][ 80]LogUObjectHash: Compacting FUObjectHashTables data took  19.43ms
+[2019.11.26-11.24.23:929][ 80]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.179
+[2019.11.26-11.24.23:933][ 80]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FPSHUD] ([1] browsable assets)...
+[2019.11.26-11.24.23:934][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FPSHUD]
+[2019.11.26-11.24.24:099][ 80]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/FPSHUD_Auto1F88AEDE14E66231C988DCB88C832FF2E.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FPSHUD_Auto1.uasset'
+[2019.11.26-11.24.24:107][ 80]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/HUD_Export/Minimap_Arrow] ([1] browsable assets)...
+[2019.11.26-11.24.24:111][ 80]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Blueprints/HUD_Export/Minimap_Arrow.Minimap_Arrow]
+[2019.11.26-11.24.24:111][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/HUD_Export/Minimap_Arrow]
+[2019.11.26-11.24.24:137][ 80]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Minimap_Arrow_Auto117DA1C6E4B5C5C655B875F901BE6FD31.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/HUD_Export/Minimap_Arrow_Auto1.uasset'
+[2019.11.26-11.24.24:141][ 80]LogFileHelpers: Auto-saving content packages took 0.210
+[2019.11.26-11.26.57:189][590]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-11.26.57:306][590]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-11.27.22:280][702]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.11.26-11.27.32:752][917]LogRenderer: Reallocating scene render targets to support 1332x900 Format 10 NumSamples 1 (Frame:1).
+[2019.11.26-11.28.41:351][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-11.29.14:756][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.29.40:997][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-11.30.19:425][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.30.34:533][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.30.38:039][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.30.43:608][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.30.56:196][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.31.08:676][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-11.31.38:531][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.32.14:192][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.32.18:196][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.32.38:113][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-11.33.09:212][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.33.34:373][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.33.50:944][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.34.38:306][385]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-11.34.55:747][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-11.35.21:822][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.36.24:677][  2]LogUObjectHash: Compacting FUObjectHashTables data took  17.01ms
+[2019.11.26-11.36.26:271][  2]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/FirstPersonExampleMap_Auto21788F6C743C711EA34754D9FFD623190.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.11.26-11.36.26:322][  2]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.836
+[2019.11.26-11.36.26:322][  2]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.836
+[2019.11.26-11.36.26:354][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.11.26-11.36.26:672][  2]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.11.26-11.36.26:675][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.11.26-11.36.28:326][  2]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/FirstPersonCharacter_Auto21953E8DC4CC3F74646F1528BD95A4374.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2019.11.26-11.36.28:337][  2]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FPSHUD] ([1] browsable assets)...
+[2019.11.26-11.36.28:337][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FPSHUD]
+[2019.11.26-11.36.29:947][  2]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/FPSHUD_Auto223C19C5F4060498B075143ADF25455BF.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FPSHUD_Auto2.uasset'
+[2019.11.26-11.36.29:957][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/Minimap_Texxture] ([1] browsable assets)...
+[2019.11.26-11.36.29:986][  2]OBJ SavePackage:     Rendered thumbnail for [TextureRenderTarget2D /Game/FirstPersonBP/Blueprints/Minimap_Texxture.Minimap_Texxture]
+[2019.11.26-11.36.29:987][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Minimap_Texxture]
+[2019.11.26-11.36.31:327][  2]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Minimap_Texxture_Auto29A06F8DE4628AB3C27F8E0BAB627EF04.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Minimap_Texxture_Auto2.uasset'
+[2019.11.26-11.36.31:332][  2]LogFileHelpers: Auto-saving content packages took 4.986
+[2019.11.26-11.36.48:497][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.37.12:781][142]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.26-11.37.13:057][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-11.37.13:059][142]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.11.26-11.37.13:109][142]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.11.26-11.37.14:291][142]LogPlayLevel: [PlayLevel] Compiling FPSHUD before play...
+[2019.11.26-11.37.16:620][142]LogUObjectHash: Compacting FUObjectHashTables data took  68.52ms
+[2019.11.26-11.37.16:621][142]LogPlayLevel: PlayLevel: Blueprint regeneration took 3562 ms (2 blueprints)
+[2019.11.26-11.37.16:622][142]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 27. 오전 5:37:16)
+[2019.11.26-11.37.16:622][142]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-11.37.16:693][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070454s)
+[2019.11.26-11.37.16:695][142]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.26-11.37.16:696][142]LogPlayLevel: PIE: World Init took: (0.002847s)
+[2019.11.26-11.37.16:696][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.073674s)
+[2019.11.26-11.37.16:805][142]LogUObjectHash: Compacting FUObjectHashTables data took   9.54ms
+[2019.11.26-11.37.16:928][142]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-11.37.16:958][142]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.26-20.37.16
+[2019.11.26-11.37.16:983][142]LogWorld: Bringing up level for play took: 0.049262
+[2019.11.26-11.37.16:984][142]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.11.26-11.37.16:999][142]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 3.591
+[2019.11.26-11.37.17:000][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-11.37.47:646][276]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.11.26-11.37.53:070][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-11.37.53:071][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-11.37.53:071][300]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-11.37.53:073][300]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-11.37.53:813][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-11.37.53:814][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-11.37.53:905][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-11.37.53:945][300]LogUObjectHash: Compacting FUObjectHashTables data took  31.65ms
+[2019.11.26-11.37.54:083][301]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.26-11.37.55:401][307]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.11.26-11.38.07:636][357]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/FPSHUD.FPSHUD
+[2019.11.26-11.39.47:814][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.40.54:031][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.42.32:259][719]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.26-11.42.32:570][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-11.42.32:571][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-11.42.32:573][719]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 27. 오전 5:42:32)
+[2019.11.26-11.42.32:574][719]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-11.42.32:728][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153661s)
+[2019.11.26-11.42.32:740][719]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.26-11.42.32:742][719]LogPlayLevel: PIE: World Init took: (0.013636s)
+[2019.11.26-11.42.32:743][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.168906s)
+[2019.11.26-11.42.32:997][719]LogUObjectHash: Compacting FUObjectHashTables data took  17.18ms
+[2019.11.26-11.42.33:016][719]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-11.42.33:030][719]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.26-20.42.33
+[2019.11.26-11.42.33:034][719]LogWorld: Bringing up level for play took: 0.016408
+[2019.11.26-11.42.33:035][719]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.11.26-11.42.33:047][719]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.361
+[2019.11.26-11.42.33:047][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-11.43.13:419][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.45.36:383][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.45.57:240][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-11.45.57:246][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-11.45.57:246][866]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-11.45.57:254][866]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-11.45.57:884][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-11.45.57:885][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-11.45.57:960][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-11.45.57:971][866]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2019.11.26-11.45.58:003][867]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.11.26-11.46.25:121][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.46.35:757][ 47]LogEditorTransaction: Undo 컴포넌트 변경
+[2019.11.26-11.47.24:213][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.47.46:441][404]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Minimap_Material311006D04580BDAE7CD4279F5EE7B743.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Content/FirstPersonBP/Blueprints/Minimap_Material.uasset'
+[2019.11.26-11.47.46:928][404]LogUObjectHash: Compacting FUObjectHashTables data took   8.37ms
+[2019.11.26-11.47.47:183][404]LogUObjectHash: Compacting FUObjectHashTables data took  28.87ms
+[2019.11.26-11.47.47:589][404]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2019.11.26-11.47.54:076][427]LogAssetEditorManager: Opening Asset editor for Material /Game/FirstPersonBP/Blueprints/Minimap_Material.Minimap_Material
+[2019.11.26-11.47.54:130][427]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-11.47.58:107][427]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-11.47.58:190][427]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.11.26-11.47.58:190][427]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.11.26-11.47.58:190][427]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.11.26-11.48.50:104][605]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.11.26-11.48.50:273][606]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.11.26-11.48.51:515][610]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.11.26-11.48.55:160][625]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.11.26-11.48.55:920][627]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2019.11.26-11.48.56:102][628]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.11.26-11.48.57:620][633]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.11.26-11.48.58:514][638]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.11.26-11.49.01:216][647]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.11.26-11.49.07:243][673]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2019.11.26-11.49.09:670][683]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.11.26-11.49.10:371][685]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2019.11.26-11.49.16:305][710]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.11.26-11.49.16:621][711]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.11.26-11.49.18:439][720]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.11.26-11.49.20:260][726]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-11.49.26:300][788]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.11.26-11.49.27:248][790]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.11.26-11.49.29:328][799]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2019.11.26-11.49.31:624][809]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.11.26-11.49.32:182][812]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.11.26-11.49.33:856][818]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.11.26-11.49.37:175][835]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2019.11.26-11.49.37:275][835]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.11.26-11.49.39:402][843]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.11.26-11.49.40:322][848]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.11.26-11.49.41:890][854]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.11.26-11.49.43:830][877]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.11.26-11.49.45:474][887]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-11.49.48:474][923]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-11.49.48:732][923]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-11.49.48:806][923]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-11.49.49:062][924]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.11.26-11.49.49:394][928]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.11.26-11.49.51:547][936]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2019.11.26-11.49.51:825][938]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2019.11.26-11.50.10:611][  9]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2019.11.26-11.50.13:867][ 22]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.26-11.50.14:108][ 22]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.11.26-11.50.15:067][ 44]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.11.26-11.50.17:472][ 60]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.11.26-11.50.18:385][ 65]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.11.26-11.50.19:724][ 67]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.11.26-11.50.21:161][ 71]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-11.50.21:219][ 71]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2019.11.26-11.50.21:220][ 71]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.26-11.50.21:331][ 71]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.26-11.50.22:065][ 76]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2019.11.26-11.50.23:019][ 77]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2019.11.26-11.50.23:886][ 83]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.11.26-11.50.26:073][104]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.11.26-11.50.28:509][112]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2019.11.26-11.50.28:758][117]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.11.26-11.50.28:875][121]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2019.11.26-11.50.29:223][126]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-11.50.29:379][126]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.26-11.50.32:077][140]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.11.26-11.50.32:122][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2019.11.26-11.50.32:147][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.11.26-11.50.33:831][148]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2019.11.26-11.50.35:591][156]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2019.11.26-11.50.37:216][164]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2019.11.26-11.50.37:246][164]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2019.11.26-11.50.37:460][166]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2019.11.26-11.50.38:883][173]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2019.11.26-11.50.38:938][173]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.26-11.50.40:259][178]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.11.26-11.50.41:536][182]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.11.26-11.50.41:699][183]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.11.26-11.50.46:893][282]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.11.26-11.50.47:634][301]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.11.26-11.50.47:861][307]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2019.11.26-11.50.47:897][308]MaterialEditorStats: Default UI Pixel Shader: 21 instructions
+[2019.11.26-11.50.47:897][308]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2019.11.26-11.50.47:897][308]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2019.11.26-11.50.47:897][308]MaterialEditorStats: Texture samplers: 2/16
+[2019.11.26-11.50.47:897][308]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.26-11.50.47:897][308]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.26-11.50.55:148][466]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.11.26-11.51.32:273][441]LogUObjectHash: Compacting FUObjectHashTables data took  13.48ms
+[2019.11.26-11.51.32:914][441]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/FirstPersonExampleMap_Auto3A28E592C47004C07884D7B9748134181.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2019.11.26-11.51.32:924][441]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.835
+[2019.11.26-11.51.32:924][441]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.835
+[2019.11.26-11.51.32:928][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.11.26-11.51.33:029][441]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.11.26-11.51.33:029][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.11.26-11.51.33:573][441]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/FirstPersonCharacter_Auto3E5D0529D4D8EE6E8D2243DA7168DE6FD.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2019.11.26-11.51.33:614][441]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FPSHUD] ([1] browsable assets)...
+[2019.11.26-11.51.33:615][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FPSHUD]
+[2019.11.26-11.51.33:822][441]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/FPSHUD_Auto38DDD4CE9428C253DB36E939F830BD919.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FPSHUD_Auto3.uasset'
+[2019.11.26-11.51.33:829][441]LogFileHelpers: Auto-saving content packages took 0.903
+[2019.11.26-11.52.58:917][ 81]LogMaterialEditor: Applying material Minimap_Material
+[2019.11.26-11.53.10:226][ 81]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-11.53.10:296][ 81]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.11.26-11.53.10:296][ 81]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.11.26-11.53.10:296][ 81]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2019.11.26-11.53.10:356][ 81]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-11.53.10:482][ 81]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-11.53.10:807][ 81]LogUObjectHash: Compacting FUObjectHashTables data took  17.31ms
+[2019.11.26-11.53.10:808][ 81]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.11.26-11.53.11:013][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.11.26-11.53.17:667][207]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2019.11.26-11.53.18:553][228]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2019.11.26-11.53.20:175][244]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.11.26-11.53.21:775][269]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.11.26-11.53.21:887][269]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.11.26-11.53.23:603][289]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2019.11.26-11.53.23:633][289]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2019.11.26-11.53.26:005][318]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2019.11.26-11.53.26:236][322]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2019.11.26-11.53.27:913][336]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2019.11.26-11.53.27:988][336]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.11.26-11.53.28:932][343]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2019.11.26-11.53.29:388][351]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.11.26-11.53.35:541][455]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.11.26-11.53.40:368][573]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.26-11.53.46:635][733]MaterialEditorStats: Default UI Pixel Shader: 21 instructions
+[2019.11.26-11.53.46:635][733]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2019.11.26-11.53.46:635][733]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2019.11.26-11.53.46:636][733]MaterialEditorStats: Texture samplers: 2/16
+[2019.11.26-11.53.46:636][733]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.26-11.53.46:636][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.26-11.54.22:729][437]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.26-11.54.22:974][437]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-11.54.22:976][437]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.11.26-11.54.23:049][437]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.11.26-11.54.23:717][437]LogPlayLevel: [PlayLevel] Compiling FPSHUD before play...
+[2019.11.26-11.54.24:497][437]LogUObjectHash: Compacting FUObjectHashTables data took  16.93ms
+[2019.11.26-11.54.24:497][437]LogPlayLevel: PlayLevel: Blueprint regeneration took 1521 ms (2 blueprints)
+[2019.11.26-11.54.24:497][437]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 27. 오전 5:54:24)
+[2019.11.26-11.54.24:498][437]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-11.54.24:537][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038762s)
+[2019.11.26-11.54.24:540][437]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.26-11.54.24:540][437]LogPlayLevel: PIE: World Init took: (0.002855s)
+[2019.11.26-11.54.24:540][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.042019s)
+[2019.11.26-11.54.24:630][437]LogUObjectHash: Compacting FUObjectHashTables data took   9.18ms
+[2019.11.26-11.54.24:655][437]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-11.54.24:665][437]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.26-20.54.24
+[2019.11.26-11.54.24:674][437]LogWorld: Bringing up level for play took: 0.017357
+[2019.11.26-11.54.24:675][437]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.11.26-11.54.24:683][437]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.275
+[2019.11.26-11.54.24:683][437]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-11.54.26:342][440]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063001 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2019.11.26-11.54.35:981][475]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1715.232 Y=333.159 Z=355.710] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.36:253][476]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1667.340 Y=430.154 Z=366.513] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.37:276][479]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1373.236 Y=716.600 Z=366.632] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.37:691][480]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1316.498 Y=700.594 Z=366.536] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.38:795][485]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1714.717 Y=269.448 Z=355.611] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.39:198][486]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1697.328 Y=300.163 Z=363.538] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.39:584][488]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1636.904 Y=447.279 Z=355.634] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.40:101][490]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1656.116 Y=546.610 Z=366.531] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.40:460][491]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1655.945 Y=596.166 Z=366.602] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.41:079][494]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1658.653 Y=950.386 Z=354.469] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.41:348][495]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1654.731 Y=1110.131 Z=366.526] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.42:003][497]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1657.270 Y=1463.613 Z=354.235] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.42:196][498]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1646.759 Y=1634.530 Z=366.521] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.45:407][510]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.113456 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_26.CollisionComponent'
+[2019.11.26-11.54.45:856][511]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1656.948 Y=1500.411 Z=365.761] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.46:224][512]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1711.535 Y=1469.242 Z=366.515] for [FirstPersonProjectile_C]
+[2019.11.26-11.54.47:105][515]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-11.54.47:105][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-11.54.47:105][515]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-11.54.47:107][515]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-11.54.47:923][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-11.54.47:923][515]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-11.54.47:990][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-11.54.48:001][515]LogUObjectHash: Compacting FUObjectHashTables data took   7.18ms
+[2019.11.26-11.54.48:042][516]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.11.26-11.54.57:657][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-11.55.25:567][695]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.11.26-11.56.57:738][878]LogSlate: Window '색 선택 툴' being destroyed
+[2019.11.26-11.58.14:238][745]BlueprintLog: New page: FPSHUD 컴파일
+[2019.11.26-11.58.14:510][745]LogUObjectHash: Compacting FUObjectHashTables data took  33.44ms
+[2019.11.26-12.00.31:355][673]LogEditorTransaction: Undo 컴포넌트 변경
+[2019.11.26-12.00.31:900][673]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-12.00.31:919][673]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.11.26-12.00.31:919][673]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.11.26-12.00.31:919][673]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2019.11.26-12.00.37:044][698]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2019.11.26-12.00.38:163][703]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2019.11.26-12.00.39:564][707]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2019.11.26-12.00.40:549][714]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.11.26-12.00.41:285][719]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.11.26-12.00.42:343][723]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.11.26-12.00.42:809][725]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.11.26-12.00.44:672][734]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.11.26-12.00.45:744][735]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.11.26-12.00.45:817][735]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.26-12.00.48:629][748]MaterialEditorStats: Default UI Pixel Shader: 21 instructions
+[2019.11.26-12.00.48:631][748]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2019.11.26-12.00.48:632][748]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2019.11.26-12.00.48:632][748]MaterialEditorStats: Texture samplers: 2/16
+[2019.11.26-12.00.48:633][748]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.26-12.00.48:633][748]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.26-12.00.51:882][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-12.01.18:766][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-12.01.21:430][929]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.26-12.01.21:727][929]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.01.21:728][929]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2019.11.26-12.01.21:761][929]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.11.26-12.01.22:767][929]LogUObjectHash: Compacting FUObjectHashTables data took  44.33ms
+[2019.11.26-12.01.22:767][929]LogPlayLevel: PlayLevel: Blueprint regeneration took 1039 ms (1 blueprints)
+[2019.11.26-12.01.22:768][929]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 27. 오전 6:01:22)
+[2019.11.26-12.01.22:771][929]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-12.01.22:901][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130625s)
+[2019.11.26-12.01.22:911][929]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.26-12.01.22:913][929]LogPlayLevel: PIE: World Init took: (0.011556s)
+[2019.11.26-12.01.22:913][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.143329s)
+[2019.11.26-12.01.23:155][929]LogUObjectHash: Compacting FUObjectHashTables data took  19.22ms
+[2019.11.26-12.01.23:226][929]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-12.01.23:258][929]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.26-21.01.23
+[2019.11.26-12.01.23:270][929]LogWorld: Bringing up level for play took: 0.036490
+[2019.11.26-12.01.23:272][929]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.11.26-12.01.23:287][929]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.88
+[2019.11.26-12.01.23:288][929]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.01.24:345][932]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063001 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2019.11.26-12.01.32:280][966]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-12.01.32:688][967]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-12.01.33:346][971]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1515.898 Y=-715.771 Z=328.187] for [FirstPersonProjectile_C]
+[2019.11.26-12.01.34:527][975]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1548.797 Y=-509.788 Z=332.745] for [FirstPersonProjectile_C]
+[2019.11.26-12.01.36:812][984]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.056594 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_7.CollisionComponent'
+[2019.11.26-12.01.41:653][  3]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.26-12.01.54:126][ 51]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.26-12.01.56:150][ 58]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.26-12.01.59:227][ 67]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.26-12.01.59:232][ 67]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.26-12.01.59:918][ 69]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.26-12.02.00:881][ 71]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.26-12.02.00:884][ 71]LogBlueprintUserMessages: [SimpleAI3_8] Die
+[2019.11.26-12.02.00:885][ 71]LogBlueprintUserMessages: [SimpleAI2_5] Die
+[2019.11.26-12.02.00:887][ 71]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-12.02.04:117][ 82]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.02.04:118][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-12.02.04:118][ 82]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-12.02.04:119][ 82]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-12.02.04:924][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-12.02.04:924][ 82]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.02.05:002][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-12.02.05:015][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   8.25ms
+[2019.11.26-12.02.05:080][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.11.26-12.02.07:979][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-12.02.07:980][ 96]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.26-12.02.08:062][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.02.08:062][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-12.02.08:062][ 96]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 27. 오전 6:02:08)
+[2019.11.26-12.02.08:063][ 96]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-12.02.08:095][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032205s)
+[2019.11.26-12.02.08:099][ 96]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.26-12.02.08:099][ 96]LogPlayLevel: PIE: World Init took: (0.003790s)
+[2019.11.26-12.02.08:099][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036378s)
+[2019.11.26-12.02.08:198][ 96]LogUObjectHash: Compacting FUObjectHashTables data took  10.86ms
+[2019.11.26-12.02.08:230][ 96]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-12.02.08:242][ 96]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.26-21.02.08
+[2019.11.26-12.02.08:245][ 96]LogWorld: Bringing up level for play took: 0.012634
+[2019.11.26-12.02.08:246][ 96]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.11.26-12.02.08:253][ 96]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.846
+[2019.11.26-12.02.08:254][ 96]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.02.11:349][108]LogCharacterMovement: SimpleAI3_8 is stuck and failed to move! Velocity: X=-103.78 Y=-382.24 Z=0.00 Location: X=1150.37 Y=-14.15 Z=313.09 Normal: X=0.89 Y=0.40 Z=-0.22 PenetrationDepth:11.018 Actor:EditorCube11_5 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2019.11.26-12.02.13:998][120]LogCharacterMovement: SimpleAI2_5 is stuck and failed to move! Velocity: X=39.53 Y=117.60 Z=0.00 Location: X=997.27 Y=-582.55 Z=312.94 Normal: X=-0.04 Y=-0.99 Z=-0.13 PenetrationDepth:10.770 Actor:EditorCube11_5 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2019.11.26-12.02.14:945][123]LogCharacterMovement: SimpleAI3_8 is stuck and failed to move! Velocity: X=-148.26 Y=-323.84 Z=0.00 Location: X=889.57 Y=-361.77 Z=313.12 Normal: X=-0.79 Y=0.54 Z=-0.31 PenetrationDepth:23.898 Actor:EditorCube11_5 Component:StaticMeshComponent0 BoneName:None (1 other events since notify)
+[2019.11.26-12.02.18:984][140]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.02.18:985][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-12.02.18:985][140]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-12.02.18:985][140]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-12.02.19:984][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-12.02.19:986][140]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.02.20:067][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-12.02.20:075][140]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2019.11.26-12.02.20:110][141]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.11.26-12.02.43:654][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-12.02.43:655][227]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.26-12.02.43:756][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.02.43:756][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-12.02.43:757][227]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 27. 오전 6:02:43)
+[2019.11.26-12.02.43:758][227]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-12.02.43:800][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041564s)
+[2019.11.26-12.02.43:802][227]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.26-12.02.43:803][227]LogPlayLevel: PIE: World Init took: (0.003218s)
+[2019.11.26-12.02.43:803][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.045166s)
+[2019.11.26-12.02.43:911][227]LogUObjectHash: Compacting FUObjectHashTables data took   9.59ms
+[2019.11.26-12.02.43:972][227]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-12.02.43:982][227]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.26-21.02.43
+[2019.11.26-12.02.43:986][227]LogWorld: Bringing up level for play took: 0.011794
+[2019.11.26-12.02.43:986][227]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.11.26-12.02.43:993][227]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.585
+[2019.11.26-12.02.43:994][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.03.28:505][379]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.03.28:508][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-12.03.28:508][379]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-12.03.28:510][379]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-12.03.29:241][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-12.03.29:241][379]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.03.29:432][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-12.03.29:484][379]LogUObjectHash: Compacting FUObjectHashTables data took  38.10ms
+[2019.11.26-12.03.29:601][380]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.11.26-12.04.19:052][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.11.26-12.04.19:371][535]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/FirstPersonExampleMap_Auto400C46BF34E5F4D17EC3E3A8655BB58DE.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2019.11.26-12.04.19:377][535]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.373
+[2019.11.26-12.04.19:377][535]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.373
+[2019.11.26-12.04.19:378][535]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.11.26-12.04.19:443][535]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.11.26-12.04.19:443][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.11.26-12.04.19:568][535]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/FirstPersonCharacter_Auto4BC2091F14C335FD8780449A99EBEAC85.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto4.uasset'
+[2019.11.26-12.04.19:571][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FPSHUD] ([1] browsable assets)...
+[2019.11.26-12.04.19:571][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FPSHUD]
+[2019.11.26-12.04.19:637][535]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/FPSHUD_Auto4AD97B49B40933B2517F8C1B0F51D7447.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FPSHUD_Auto4.uasset'
+[2019.11.26-12.04.19:641][535]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/Minimap_Material] ([1] browsable assets)...
+[2019.11.26-12.04.19:649][535]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPersonBP/Blueprints/Minimap_Material.Minimap_Material]
+[2019.11.26-12.04.19:649][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Minimap_Material]
+[2019.11.26-12.04.19:688][535]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Minimap_Material_Auto44D344FE34C3FCAD55FC0D3B63E27769B.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Minimap_Material_Auto4.uasset'
+[2019.11.26-12.04.19:690][535]LogFileHelpers: Auto-saving content packages took 0.312
+[2019.11.26-12.04.46:184][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2019.11.26-12.04.49:441][605]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.11.26-12.06.09:492][842]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-12.06.14:310][853]LogSlate: Window '메시지' being destroyed
+[2019.11.26-12.06.15:100][853]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-12.06.15:156][853]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.11.26-12.06.15:156][853]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.11.26-12.06.15:156][853]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2019.11.26-12.06.15:172][853]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-12.06.15:197][853]LogMaterial: Display: Missing cached shader map for material Minimap_Material, compiling. 
+[2019.11.26-12.06.15:296][853]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2019.11.26-12.06.15:297][853]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.11.26-12.06.15:376][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.11.26-12.06.15:391][853]LogSlate: Window 'Minimap_Material' being destroyed
+[2019.11.26-12.06.15:395][853]LogSlate: Window 'Minimap_Material' being destroyed
+[2019.11.26-12.06.15:626][853]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-12.06.17:700][864]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-12.06.17:772][864]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-12.06.17:960][865]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2019.11.26-12.06.17:960][865]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2019.11.26-12.06.18:696][870]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2019.11.26-12.06.19:588][875]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.11.26-12.06.19:728][875]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-12.06.20:476][879]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2019.11.26-12.06.21:234][882]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2019.11.26-12.06.21:354][883]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.11.26-12.06.21:607][883]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.06.21:607][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-12.06.21:607][883]PIE: New page: PIE 세션: FirstPersonExampleMap (2019. 11. 27. 오전 6:06:21)
+[2019.11.26-12.06.21:608][883]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-12.06.21:669][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060840s)
+[2019.11.26-12.06.21:676][883]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.11.26-12.06.21:677][883]LogPlayLevel: PIE: World Init took: (0.007329s)
+[2019.11.26-12.06.21:678][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.069585s)
+[2019.11.26-12.06.21:856][883]LogUObjectHash: Compacting FUObjectHashTables data took  12.43ms
+[2019.11.26-12.06.21:870][883]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-12.06.21:879][883]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.11.26-21.06.21
+[2019.11.26-12.06.21:883][883]LogWorld: Bringing up level for play took: 0.011441
+[2019.11.26-12.06.21:883][883]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.11.26-12.06.21:891][883]PIE: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.483
+[2019.11.26-12.06.21:891][883]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.06.21:946][884]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.11.26-12.06.23:284][889]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2019.11.26-12.06.24:273][892]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2019.11.26-12.06.24:733][893]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2019.11.26-12.06.25:215][895]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2019.11.26-12.06.26:088][898]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2019.11.26-12.06.26:411][899]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2019.11.26-12.06.31:021][917]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.11.26-12.06.33:421][926]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.11.26-12.06.34:910][932]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-12.06.35:423][933]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-12.06.38:089][942]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.067748 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_6.CollisionComponent'
+[2019.11.26-12.06.38:493][943]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-12.06.39:342][946]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-12.06.40:422][950]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-12.06.43:506][962]LogBlueprintUserMessages: [SimpleAI_2] Die
+[2019.11.26-12.06.50:011][990]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.056507 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_27.CollisionComponent'
+[2019.11.26-12.06.53:767][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.06.53:767][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-12.06.53:767][  5]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.11.26-12.06.53:768][  5]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-12.06.54:618][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-12.06.54:619][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.11.26-12.06.54:709][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-12.06.54:735][  5]LogUObjectHash: Compacting FUObjectHashTables data took  22.89ms
+[2019.11.26-12.06.54:932][  6]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.11.26-12.07.01:831][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-12.14.53:051][602]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2019.11.26-12.14.53:052][602]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.210
+[2019.11.26-12.14.53:059][602]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/Minimap_Material] ([1] browsable assets)...
+[2019.11.26-12.14.53:102][602]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPersonBP/Blueprints/Minimap_Material.Minimap_Material]
+[2019.11.26-12.14.53:102][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Minimap_Material]
+[2019.11.26-12.14.53:202][602]LogSavePackage: Moving '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Minimap_Material_Auto576A5890B44EA9EA8F73D46A42B1E6C36.tmp' to '../../../../../../Users/cheri/OneDrive/바탕 화면/game-master/game-master/Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Minimap_Material_Auto5.uasset'
+[2019.11.26-12.14.53:206][602]LogFileHelpers: Auto-saving content packages took 0.148
+[2019.11.26-12.15.49:704][880]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.11.26-12.17.06:148][268]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.11.26-12.29.55:684][272]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.11.26-12.31.12:952][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.11.26-13.08.31:018][752]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.11.26-13.48.59:687][ 68]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.11.26-15.09.21:608][690]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.11.26-15.21.39:519][761]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.11.26-15.27.38:038][698]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
